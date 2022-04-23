@@ -6,6 +6,7 @@ The Source Code is not available for Public
 # How To Use 
 
 For STEAM Requires SSL Bypass
+Download SSL Bypass from here: https://github.com/RizkyNugroho666/DeadbyDaylight_SSL-Bypass
 
 1. Just open "1ntrovert Unlocker.exe" and click start
 2. If it asking you to install certificate, just press yes
