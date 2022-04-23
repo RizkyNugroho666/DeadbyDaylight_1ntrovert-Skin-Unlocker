@@ -5,7 +5,7 @@ The Source Code is not available for Public
 
 # How To Use 
 
-**For STEAM Requires SSL Bypass **
+**For STEAM Requires SSL Bypass
 
 1. Just open "1ntrovert Unlocker.exe" and click start
 2. If it asking you to install certificate, just press yes
@@ -13,4 +13,4 @@ The Source Code is not available for Public
 
 Another features are optional 
 
-**For more Information and Cheats Join: ** https://discord.gg/suuab4gntN
+**For more Information and Cheats Join: https://discord.gg/suuab4gntN
