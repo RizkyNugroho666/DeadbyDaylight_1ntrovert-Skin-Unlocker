@@ -13,6 +13,4 @@ Download SSL Bypass from here: https://github.com/RizkyNugroho666/DeadbyDaylight
 2. If it asking you to install certificate, just press yes
 3. And then start your dead by daylight
 
-Another features are optional 
-
 For more Information and Cheats Join: https://discord.gg/suuab4gntN
