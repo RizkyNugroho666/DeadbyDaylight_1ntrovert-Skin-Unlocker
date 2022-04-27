@@ -16,4 +16,4 @@ Download SSL Bypass from here: https://github.com/RizkyNugroho666/DeadbyDaylight
 For more Information and Cheats Join: https://discord.gg/suuab4gntN
 
 # Preview
-![x](https://media.discordapp.net/attachments/966688248338468894/968490102525399070/unknown.png?width=364&height=468)
+![x](https://media.discordapp.net/attachments/966688248338468894/968816867026272316/unknown.png?width=362&height=468)
