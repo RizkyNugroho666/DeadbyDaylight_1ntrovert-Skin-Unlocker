@@ -14,6 +14,10 @@ Download SSL Bypass from here: https://github.com/RizkyNugroho666/DeadbyDaylight
 3. And then start your dead by daylight
 
 For more Information and Cheats Join: https://discord.gg/suuab4gntN
+# Updates
+- Reworked UI
+- Better Performance
 
 # Preview
 ![x](https://media.discordapp.net/attachments/966688248338468894/968816867026272316/unknown.png?width=362&height=468)
+
