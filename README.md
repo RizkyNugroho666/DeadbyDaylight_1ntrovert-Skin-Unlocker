@@ -7,7 +7,7 @@ Dead by Daylight Skin Unlocker Compiled
 
 For STEAM Requires SSL Bypass
 
-Download SSL Bypass from here: https://github.com/RizkyNugroho666/DeadbyDaylight_SSL-Bypass
+**SSL Bypass doesn't work for steam at the moment**
 
 1. Just open "1ntrovert Unlocker.exe" and click start
 2. If it asking you to install certificate, just press yes
@@ -17,7 +17,11 @@ For more Information and Cheats Join: https://discord.gg/suuab4gntN
 # Updates
 - Reworked UI
 - Better Performance
+- Updated New Skins
+- Added Button to Stop the Unlocker
+- Added Button to Enable/Disable Discord RPC
+- Added Discord RPC
 
 # Preview
-![x](https://media.discordapp.net/attachments/966688248338468894/968816867026272316/unknown.png?width=362&height=468)
+![x](https://media.discordapp.net/attachments/966688248338468894/969272852547239936/unknown.png)
 
