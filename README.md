@@ -15,12 +15,7 @@ For STEAM Requires SSL Bypass
 
 For more Information and Cheats Join: https://discord.gg/suuab4gntN
 # Updates
-- Reworked UI
-- Better Performance
-- Updated New Skins
-- Added Button to Stop the Unlocker
-- Added Button to Enable/Disable Discord RPC
-- Added Discord RPC
+- Updated New Market.json file, Unlocked All New Skins (Download and replace it into 1ntrovert Unlocker Directory)
 
 # Preview
 ![x](https://media.discordapp.net/attachments/966688248338468894/969272852547239936/unknown.png)
