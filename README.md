@@ -14,7 +14,7 @@ For STEAM Requires SSL Bypass
 3. And then start your dead by daylight
 
 For more Information and Cheats Join: https://discord.gg/suuab4gntN
-# Updates
+# Updates 
 - Updated New Market.json file, Unlocked All New Skins (Download and replace it into 1ntrovert Unlocker Directory)
 
 # Preview
